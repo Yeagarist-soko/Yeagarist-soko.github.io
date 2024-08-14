@@ -1,0 +1,14 @@
+body {
+	background-color: #f7f7f7; /* professional white */
+}
+
+header {
+	background-color: #87CEEB; /* soft blue */
+	padding: 20px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+	color: #333; /* dark gray */
+}
